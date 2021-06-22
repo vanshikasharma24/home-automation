@@ -1,1 +1,2 @@
 # home-automation
+The Home Automation is a wireless home automation system that is supposed to be implemented in existing home environments, without any changes in the infrastructure. Home Automation let the user to control the home from his or her computer and assignations that should happen depending on time or other sensor readings such as light, temperature or sound from any device in the Home Automation network
